@@ -1,0 +1,5 @@
+Name: Samta
+Education: BSc in Data Science and Artificial Intelligence
+Skills: Python, Machine Learning, Pandas, NumPy
+Experience: Internship in AI projects
+Career Interest: Data Scientist
